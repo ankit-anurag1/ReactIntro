@@ -6,7 +6,7 @@ function Navbar(){
     return(
       <div className="container">
         <nav className="navbar navbar-expand-lg navbar-light">
-            <span className="navbar-brand">ReactGallery</span>
+            <span className="navbar-brand">ReactIntro</span>
             <ul className="navbar-nav ml-auto">
                 <li className="nav-item">
                     <NavLink to="/home" className="nav-link">Home</NavLink>
